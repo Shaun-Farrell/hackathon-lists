@@ -7,3 +7,11 @@ This a list of considerations. There will be requirements for the hackathon to t
 * Startup list
 * Development list
 
+## Hackathon
+
+- [ ] Presentation
+- [ ] API integration
+- [ ] Repository (Github)
+
+Ultimately you will be presenting to judges and so the presentation is the most important thing. You should work back from this point. What do you want to show in the presentation? What will impress the judges? What key elements from the Startup / Development lists can you add in for maximum effect?
+
